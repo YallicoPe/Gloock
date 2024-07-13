@@ -14,7 +14,7 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
 ["573104836032", '𝙶𝚕𝚘𝚌𝚌𝚔 𝙱𝚘𝚝 🇦🇱', true],
-["522291751513"], 
+["51926933818"], 
 ["522291751513"]]
 
 global.mods = []
@@ -139,17 +139,17 @@ global.asistencia = 'https://wa.pe/A1HN8YnjDm' //Contacto
 
 global.nna = 'https://wa.pe/A1HN8YnjDm' // CANAL UPDATE
 global.nn2 = 'https://chat.whatsapp.com/LHo0RmYd3pxAQzp24NYcTV' // CANAL GataBot
-global.nna2 = 'https://www.instagram.com/yallico.owner' // Help
-global.nn = 'https://www.instagram.com/yallico.owner' // Grupo 1
-global.nnn = 'https://www.instagram.com/yallico.owner' // Grupo 2
-global.nnnt = 'https://www.instagram.com/yallico.owner' // Grupo 3
-global.nnntt = 'https://www.instagram.com/yallico.owner' // Grupo 4
-global.nnnttt = 'https://www.instagram.com/yallico.owner' // Grupo 5
-global.nnnttt1 = 'https://www.instagram.com/yallico.owner' // Grupo 6 COL
-global.nnnttt2 = 'https://www.instagram.com/yallico.owner' // Grupo 7 COL
-global.nnnttt3 = 'https://www.instagram.com/yallico.owner' // Grupo 8 COL
-global.nnnttt4 = 'https://www.instagram.com/yallico.owner' // Grupo 9 COL
-global.nnnttt5 = 'https://www.instagram.com/yallico.owner' // A.T.M.M
+global.nna2 = 'https://www.instagram.com/dilanarleyromerocal9dero9' // Help
+global.nn = 'https://www.instagram.com/dilanarleyromerocal9dero9' // Grupo 1
+global.nnn = 'https://www.instagram.com/dilanarleyromerocal9dero9' // Grupo 2
+global.nnnt = 'https://www.instagram.com/dilanarleyromerocal9dero9' // Grupo 3
+global.nnntt = 'https://www.instagram.com/dilanarleyromerocal9dero9' // Grupo 4
+global.nnnttt = 'https://www.instagram.com/dilanarleyromerocal9dero9' // Grupo 5
+global.nnnttt1 = 'https://www.instagram.com/dilanarleyromerocal9dero9' // Grupo 6 COL
+global.nnnttt2 = 'https://www.instagram.com/dilanarleyromerocal9dero9' // Grupo 7 COL
+global.nnnttt3 = 'https://www.instagram.com/dilanarleyromerocal9dero9' // Grupo 8 COL
+global.nnnttt4 = 'https://www.instagram.com/dilanarleyromerocal9dero9' // Grupo 9 COL
+global.nnnttt5 = 'https://www.instagram.com/dilanarleyromerocal9dero9' // A.T.M.M
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
 global.rg = '╰⊱✅⊱ *𝙍𝙀𝙎𝙐𝙇𝙏𝘼𝘿𝙊 | 𝙍𝙀𝙎𝙐𝙇𝙏* ⊱✅⊱╮\n\n'
