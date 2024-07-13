@@ -13,7 +13,7 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
-["573104836032", '𝙶𝚕𝚘𝚌𝚌𝚔 𝙱𝚘𝚝 🇦🇱', true], 𝙔𝘼𝙇𝙇𝙄𝘾𝙊 🇦🇱
+["573104836032", '𝙶𝚕𝚘𝚌𝚌𝚔 𝙱𝚘𝚝 🇦🇱', true],
 ["522291751513"], 
 ["522291751513"]]
 
