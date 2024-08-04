@@ -87,7 +87,7 @@ let menu = `
 *╭━〔 GLOCCK BOT 〕━⬣*
 *┃🇦🇱 Creador:* _Dilan_
 *┃🇦🇱 Activo:* _${uptime}_
-*┃🇦🇱 Comprar:* ${nna}
+*┃🇦🇱 Comprar:* ${ig}
 *┃🇦🇱 Instagram:* ${md}
 *╰━━━━━━━━━━━━⬣*
 
