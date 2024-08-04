@@ -10,7 +10,7 @@ const handler = async (m, {isOwner, isAdmin, conn, text, participants, args, com
   for (const mem of participants) {
     teks += `ִ໋ღ ➤ @${mem.id.split('@')[0]}\n`;
   }
-  teks += `\n 𝚈𝚊𝚕𝚕𝚒𝚌𝚘 𝙱𝚘𝚝 🇦🇱`;
+  teks += `\n Dilan 𝙱𝚘𝚝 🇦🇱`;
   conn.sendMessage(m.chat, {text: teks, mentions: participants.map((a) => a.id)} );
 };
 handler.help = ['tagall <mesaje>', 'invocar <mesaje>'];
