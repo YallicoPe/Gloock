@@ -85,7 +85,7 @@ const horarioFecha = lugarFecha.format('dddd, DD [de] MMMM [del] YYYY || HH:mm A
 let menu = `
 
 *╭━〔 GLOCCK BOT 〕━⬣*
-*┃🇦🇱 Creador:* _Dilan_
+*┃🇦🇱 Creador:* _Dilan R._
 *┃🇦🇱 Activo:* _${uptime}_
 *┃🇦🇱 Comprar:* ${ig}
 *┃🇦🇱 Instagram:* ${md}
