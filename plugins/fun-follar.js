@@ -14,7 +14,7 @@ const handler = async (m, {conn, usedPrefix, command, text}) => {
 
 🤤🥵 ¡𝐘𝐀 𝐓𝐄 𝐇𝐀𝐍 𝐅𝐎𝐋𝐋𝐀𝐃𝐎! 🥵🤤
 
-  conn.sendMessage(m.chat, {react: {text: '👌🏼', key: abrazo.key}});
+  conn.sendMessage(m.chat, {react: {text: '🥵', key: abrazo.key}});
 };
 handler.help = ['follar @user'];
 handler.tags = ['fun'];
