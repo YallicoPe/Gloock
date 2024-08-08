@@ -114,6 +114,7 @@ let menu = `
 *╰━━━━━━━━━━━━⬣*
 
 *╭━〔 Juegos - Multi Juegos 〕━⬣*
+*┃🇦🇱 ➺* _${usedPrefix}4vs4_ 
 *┃🇦🇱 ➺* _${usedPrefix}Abrazo_
 *┃🇦🇱 ➺* _${usedPrefix}Cumple_
 *┃🇦🇱 ➺* _${usedPrefix}Cuando_
